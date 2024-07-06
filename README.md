@@ -16,6 +16,7 @@ You can read more on [First Steps to Getting Started in Open Source Research](ht
 	- Tracking Aircrafts : https://twitter.com/steffanwatkins	<br />	
 	- Tracking Ships : https://twitter.com/YorukIsik	<br />	
 	- Geolocators : https://twitter.com/obretix	<br />
+ 
 -  Guide: 
 	- https://www.bellingcat.com/resources/how-tos/2019/06/21/the-most-comprehensive-tweetdeck-research-guide-in-existence-probably/
 	- https://www.bellingcat.com/author/carlosgonzales/
@@ -54,8 +55,8 @@ You can read more on [First Steps to Getting Started in Open Source Research](ht
 
 - Keep Health Check:
 	- Dart Centre for Journalism & Trauma : https://dartcenter.org/
-	- practical guides : https://dartcenter.org/resources/handling-traumatic-imagery-developing-standard-operating-procedure
-	- working with traumatic imagery : https://dartcenter.org/content/working-with-traumatic-imagery
+	- Practical Guide : https://dartcenter.org/resources/handling-traumatic-imagery-developing-standard-operating-procedure
+ 	- Working with traumatic Imagery : https://dartcenter.org/content/working-with-traumatic-imagery
 	<br />	<br />
 
 > [!NOTE]
