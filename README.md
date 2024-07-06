@@ -1,6 +1,6 @@
 # Bellingcat-Resources
 Bellingcat resources to getting started in open source research.
-You can read more on [First Steps to Getting Started in Open Source Research](https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/). <br /> <br />
+You can read about OOSI in detail on [First Steps to Getting Started in Open Source Research](https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/). <br /> <br />
 
 - Twitter Accounts of Researchers: <br />	
 	- New York Times [Visual Investigations](https://twitter.com/search?q=Visual%20Investigations&src=typed_query&f=user) <br />
